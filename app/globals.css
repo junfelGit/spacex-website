@@ -25,3 +25,10 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.card-img{
+  max-width: 100%;
+  height: 250px;
+  max-height: 250px;
+  object-fit: cover;
+}
